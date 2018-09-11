@@ -1,6 +1,5 @@
 # Hackathon-2017
 
 
-Wiki Link for Resume Filtering
+Project on Resume Filtering
 
-https://github.com/PragathiThammaneni/Hackathon-2017/wiki/Resume-Filtering
